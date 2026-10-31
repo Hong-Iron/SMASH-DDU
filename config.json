@@ -1,0 +1,113 @@
+{
+  "code": "DDU",
+  "title": "SMASH DDU",
+  "school": "대덕대",
+  "fullName": "대덕대학교",
+  "campusName": "대덕대학교",
+  "tagline": "대덕대를 부셔 (시험기간 스트레스 해소)",
+  "description": "대덕대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 대덕대학교 3D 화면과 SMASH DDU 제목",
+  "url": "https://hong-iron.github.io/SMASH-DDU/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 937299986
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        36.3917122,
+        127.3634503
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 캠퍼스 경계 밖 장동 23-9 학교용지에 있는 옆 대덕소프트웨어마이스터고등학교 건물이라 대덕대 건물이 아니다."
+    },
+    {
+      "at": [
+        36.3920487,
+        127.3630308
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 캠퍼스 경계 밖 장동 23-9 마이스터고 부지, 고등학교 담장 안에 있는 건물이라 대덕대 건물이 아니다."
+    },
+    {
+      "at": [
+        36.391603,
+        127.363316
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 캠퍼스 경계 밖 장동 23-9 학교용지에 있는 대덕소프트웨어마이스터고등학교 건물이라 대덕대 건물이 아니다."
+    },
+    {
+      "at": [
+        36.3919734,
+        127.3634572
+      ],
+      "n": "대덕소프트웨어마이스터고등학교",
+      "why": "학교 건물 아님 — 브이월드 건물대장 이름이 대덕소프트웨어마이스터고등학교인 옆 고등학교 본관이라 대덕대 건물이 아니다."
+    }
+  ],
+  "look": {
+    "인문사회관": {
+      "style": "brick",
+      "wall": "#7d5444",
+      "glass": "#7f9e9c",
+      "frame": "#c8a44c"
+    },
+    "정곡관": {
+      "style": "stone",
+      "wall": "#e2e4e6",
+      "glass": "#4a6a84",
+      "frame": "#c0c8d0"
+    },
+    "생활관": {
+      "style": "dorm",
+      "wall": "#b46c58",
+      "glass": "#4f8a8e",
+      "frame": "#f0f0ec",
+      "roof": "#b9524c",
+      "hip": true
+    },
+    "이공관": {
+      "style": "brick",
+      "wall": "#74463e",
+      "glass": "#2c3438",
+      "frame": "#e4e2dc"
+    },
+    "경상관": {
+      "style": "stone",
+      "wall": "#ebf0f4",
+      "glass": "#3e5f58",
+      "frame": "#2c4c8c"
+    },
+    "유아교육관": {
+      "style": "stone",
+      "wall": "#eef0f0",
+      "glass": "#4a5258",
+      "frame": "#e0a020",
+      "roof": "#4a4446",
+      "hip": true
+    },
+    "기계공학관": {
+      "style": "glass",
+      "wall": "#d4d8dc",
+      "glass": "#263729",
+      "frame": "#b8bec4"
+    },
+    "테크노센터": {
+      "style": "concrete",
+      "wall": "#b4c4ce",
+      "glass": "#1d3b61",
+      "frame": "#e0e7ea"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
